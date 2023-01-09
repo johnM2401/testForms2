@@ -3,4 +3,3 @@ contact_links:
   - name: Raise Issue on Repo 1 
     url: https://github.com/johnM2401/testForms/issues/new?assignees=octocat&labels=bug%2Ctriage&template=issueTemplate.yaml&title=%5BBug%5D%3A+
     about: Use this if your issue relates to Repo 1
-

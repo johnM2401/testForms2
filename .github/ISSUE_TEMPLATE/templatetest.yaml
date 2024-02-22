@@ -1,5 +1,5 @@
-name: Bug Report 2
-description: File a bug report
+name: Raise a SuiteCRM 8 Bug
+description: Use this if your issue was identified on SuiteCRM 8
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:

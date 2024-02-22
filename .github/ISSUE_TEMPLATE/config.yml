@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Raise Issue on Repo 1 
+  - name: Raise a SuiteCRM 7 Bug
     url: https://github.com/johnM2401/testForms/issues/new?assignees=octocat&labels=bug%2Ctriage&template=issueTemplate.yaml&title=%5BBug%5D%3A+
-    about: Use this if your issue relates to Repo 1
+    about: Use this if your issue was identified on SuiteCRM 7
